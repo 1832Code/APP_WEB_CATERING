@@ -41,7 +41,9 @@ El sistema de D'Bolivar Gourmet está desarrollado con las siguientes tecnologí
 - **React**: Biblioteca JavaScript para construir interfaces de usuario
 - **HTML5/CSS3**: Estructura y estilos modernos
 - **Tailwind**: Framework de diseño responsive
-
+- **AceternityUI/Uiverse**: Librerias de componentes
+- **NextJS**: Framework de desarrollo web construido sobre React.
+  
 ### Backend
 - **Spring Boot**: Framework Java para aplicaciones empresariales
 - **Spring Security**: Gestión de autenticación y autorización
